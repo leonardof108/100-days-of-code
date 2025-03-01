@@ -16,3 +16,12 @@
 Java’s memory management and OOP principles help in designing efficient data structures.
 
 **Link to work:** [Data structures in java](https://github.com/leonardof108/JavaDataStructures)
+
+
+### Day 2: February 28, 2025
+
+**Today's Progress**: Studied more data structures, built a little task manager.
+
+**Thoughts:** Head First Java 2nd edition is pretty outdated, the (fairly) recent 3rd edition covers Java 8 which brings pretty drastic things the language (lambdas, for one) compared to the one they use in the 2nd edition (Java 5), so I switched to the 3rd edition.
+
+**Link to work:** [Task Manager](https://github.com/leonardof108/TaskManager)
