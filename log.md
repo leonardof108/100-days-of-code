@@ -25,3 +25,11 @@ Java’s memory management and OOP principles help in designing efficient data s
 **Thoughts:** Head First Java 2nd edition is pretty outdated, the (fairly) recent 3rd edition covers Java 8 which brings pretty drastic things the language (lambdas, for one) compared to the one they use in the 2nd edition (Java 5), so I switched to the 3rd edition.
 
 **Link to work:** [Task Manager](https://github.com/leonardof108/TaskManager)
+
+### Day 3: March 1st, 2025
+
+**Today's Progress**: Studied more Java, did coding exercises and challenges.
+
+**Thoughts:** Mooc's java course goes pretty hard, i really like it. i'm solidifying core concepts more.
+
+**Link to work:** [Task Manager](https://github.com/leonardof108/JavaExercises)
