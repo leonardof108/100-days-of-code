@@ -32,4 +32,4 @@ Java’s memory management and OOP principles help in designing efficient data s
 
 **Thoughts:** Mooc's java course goes pretty hard, i really like it. i'm solidifying core concepts more.
 
-**Link to work:** [Task Manager](https://github.com/leonardof108/JavaExercises)
+**Link to work:** [Exercises](https://github.com/leonardof108/JavaExercises)
